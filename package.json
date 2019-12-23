@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/scrwdrv/physical-cores/issues"
   },
-  "homepage": "https://github.com/scrwdrv/physical-cores#readme"
+  "homepage": "https://github.com/scrwdrv/physical-cores#readme",
+  "devDependencies": {
+    "@types/node": "^12.12.21"
+  }
 }
