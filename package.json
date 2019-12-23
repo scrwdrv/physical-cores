@@ -1,0 +1,26 @@
+{
+  "name": "physical-cores",
+  "version": "1.0.0",
+  "description": "Get your physical cpu count in a blink, supports several main platforms include linux, windows, darwin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scrwdrv/physical-cores.git"
+  },
+  "keywords": [
+    "cpu",
+    "physical",
+    "os",
+    "thread",
+    "core"
+  ],
+  "author": "scrwdrv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scrwdrv/physical-cores/issues"
+  },
+  "homepage": "https://github.com/scrwdrv/physical-cores#readme"
+}
