@@ -10,9 +10,9 @@ npm i physical-cores
 ## Usage
 
 ```js
-const count = require('physical-cores');
+import physicalCores from 'physical-cores';
+// or const physicalCores = require('physical-cores').default;
 
-console.log(count);
-//6
-
+console.log(physicalCores);
+// output: 6
 ```

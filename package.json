@@ -1,6 +1,6 @@
 {
   "name": "physical-cores",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Get your physical cpu count in a blink, supports several main platforms include linux, windows, darwin",
   "main": "index.js",
   "scripts": {
