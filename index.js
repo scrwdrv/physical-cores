@@ -22,7 +22,7 @@ switch (os.platform()) {
             return !cpu.model.includes('Intel') || index % 2 === 1;
         }).length;
 }
-module.exports = physicalCores;
+exports.default = physicalCores;
 function exec(cmd) {
     return child_process_1.execSync(cmd, { encoding: 'utf8' });
 }

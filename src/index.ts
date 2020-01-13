@@ -24,7 +24,7 @@ switch (os.platform()) {
 }
 
 
-module.exports = physicalCores;
+export default physicalCores;
 
 function exec(cmd: string) {
     return execSync(cmd, { encoding: 'utf8' })
